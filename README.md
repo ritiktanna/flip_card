@@ -1,6 +1,7 @@
 # card_3d
 
 A new Flutter project.
+In this prohect i use 2 package to create a page that flip the container on click.
 
 ## Getting Started
 
